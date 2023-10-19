@@ -31,3 +31,29 @@ Purpose: The data serves as the foundation for conducting an in-depth analysis t
 The fitbit fitness tracker data is a reliable, original, comprehensive, current, and cited data source that serves as a foundational element for the analysis of bike-sharing trends and customer behavior as outlined in the case study.
 
 
+# Data Gathering, Organization, Cleaning and Transformation
+
+I used two of the following tools:
+## Excel and,
+## SQL (sqlite3)
+
+# Excel
+1. Data are organized into different files, each of the file were downloaded and stored in my computer local storage folder.
+2. The folder was duplicated so as to preserve and protect data integrity.
+3. Out of the many files, we find three of the files to be important for this analysis.
+   The files are:
+   i. dailyActivity_merged.csv
+   ii. sleepDay_merged.csv and,
+   iii. weightLogInfo_merged.csv
+4. All the above files were opened or imported to Excel using power query.
+5. Using the power query editor, we formatted the date each of the date columns.
+6. Add columns:
+   some of the columns added are:
+   i. day_of_week: to extract the name of the week each of the activity occured.
+   ii. sleep remark: to conditionally identify the users pattens of sleep to discover those who are having bad or good sleeping habit.
+   iii. Weight_remark: to also identify users who are overweight and those who have low weight. etc.
+7. Each of the files were loaded to excel tables or environment.
+8. The dataset were now imported to the SQL for further analysis, that include, Descriptive, Exploratory data analysis (EDA) etc.
+9. The SQL quries are in this repo. or click here: 
+
+# Findings
