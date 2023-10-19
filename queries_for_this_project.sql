@@ -151,4 +151,6 @@ FROM daily_activity_csv;
 
 
 
------ TIME TO CREATE VISUALS
+----- TIME TO CREATE VISUALS. Needed files exported to excel and Dashboards create with Tablea. 
+------ More informations on the ReadMe files. 
+------- Thanks for stoping by.
