@@ -54,6 +54,15 @@ I used two of the following tools:
    iii. Weight_remark: to also identify users who are overweight and those who have low weight. etc.
 7. Each of the files were loaded to excel tables or environment.
 8. The dataset were now imported to the SQL for further analysis, that include, Descriptive, Exploratory data analysis (EDA) etc.
-9. The SQL quries are in this repo. or click here: 
+9. The SQL quries are in this repo. or click here: https://github.com/AY-Khalid/Google-capstone-case-study-2.-Bellabeat-Sqlite3-documentations/blob/main/queries_for_this_project.sql
 
 # Findings
+
+1. Users with a body mass index (BMI) ranging from 25 to 28 tend to burn the most calories. This suggests that this group of users is highly active, and this conclusion is supported by the finding that they also have the highest average number of steps taken. Therefore, it can be inferred that the more steps a user takes, the more calories they burn, indicating a higher level of physical activity.
+2. The analysis also reveals that users who sleep for durations between 5 to 8 hours are more likely to burn more calories. This is because they strike a balance between not getting too little sleep, which can be detrimental, and not oversleeping, which also has its drawbacks.
+
+# Recommendations
+
+1. Develop products tailored for users with a BMI between 25 and 28, promoting active lifestyles.
+2. Enhance device features to support balanced sleep patterns of 5 to 8 hours for improved overall well-being.
+3. Create features motivating users to meet daily step goals and maintain balanced lifestyles encompassing activity, sleep, and nutrition.
