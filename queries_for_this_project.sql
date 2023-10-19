@@ -1,3 +1,5 @@
+----Data Cleaning and Transformation of the GOOGLE DATA ANALYTICS CAPSTONE CASE STUDY 2 (Bellabeat).
+		---(more information are in the README file).
 ---- get all the necessary tables
 
 SELECT *
