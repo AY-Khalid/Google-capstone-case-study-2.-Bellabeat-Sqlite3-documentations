@@ -61,6 +61,9 @@ I used two of the following tools:
 1. Users with a body mass index (BMI) ranging from 25 to 28 tend to burn the most calories. This suggests that this group of users is highly active, and this conclusion is supported by the finding that they also have the highest average number of steps taken. Therefore, it can be inferred that the more steps a user takes, the more calories they burn, indicating a higher level of physical activity.
 2. The analysis also reveals that users who sleep for durations between 5 to 8 hours are more likely to burn more calories. This is because they strike a balance between not getting too little sleep, which can be detrimental, and not oversleeping, which also has its drawbacks.
 
+
+Link to Tableau Dashboards: https://public.tableau.com/app/profile/anidu.yakubu.khalid/viz/GoogleCapstoneCaseStudy2Bellabeat/BellabeatAnalysis
+
 # Recommendations
 
 1. Develop products tailored for users with a BMI between 25 and 28, promoting active lifestyles.
